@@ -7,7 +7,7 @@ export const exampleInput = `
 3   3
 `;
 
-export const input = `
+export const puzzleInput = `
 40094   37480
 52117   14510
 92290   82570
@@ -1008,4 +1008,4 @@ export const input = `
 15717   73514
 20342   72228
 13498   75812
-`;;
+`;
