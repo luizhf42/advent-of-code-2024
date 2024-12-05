@@ -1,5 +1,3 @@
-import { exampleInput, puzzleInput } from "./inputs.js";
-
 const separateReports = (inputData) =>
 	inputData
 		.trim()
